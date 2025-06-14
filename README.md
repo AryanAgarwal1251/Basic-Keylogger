@@ -1,2 +1,2 @@
 # Basic-Keylogger
-I am interested in cybersecurity which is why I am interested in learning how to create a keylogger. This is just for learning only. At first I will learn from freecodecamp.org. Further, I will think about adding my own changes to it.
+I'm deeply interested in cybersecurity, which is why I want to understand how keyloggers work — purely for educational purposes. I plan to start by following tutorials from trusted sources like freeCodeCamp.org to learn the basics. Once I grasp the core concepts, I aim to experiment by adding my own modifications to deepen my understanding and enhance my practical skills in a responsible way.
